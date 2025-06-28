@@ -1,4 +1,3 @@
-# app.py
 import argparse
 from preprocessor import ImagePreprocessor
 from pin_manager import PinManager
